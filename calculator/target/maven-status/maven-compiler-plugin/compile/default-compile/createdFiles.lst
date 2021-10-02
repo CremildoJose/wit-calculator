@@ -1,0 +1,7 @@
+com\witsoftware\rest\calculator\service\CalculationServiceImpl.class
+com\witsoftware\rest\calculator\utils\Operator.class
+com\witsoftware\rest\calculator\utils\Constants.class
+com\witsoftware\rest\calculator\service\CalculationService.class
+com\witsoftware\rest\calculator\model\MathOperationResult.class
+com\witsoftware\rest\calculator\model\MathOperation.class
+com\witsoftware\rest\calculator\service\ResultSenderService.class
